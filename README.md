@@ -1,6 +1,6 @@
-# Kigali Tourism Website
+# Kigali Travel Website
 
-Welcome to the Kigali Tourism Website project! This website is a multi-page platform dedicated to showcasing some of the best tourist destinations, restaurants, and experiences in Kigali, Rwanda.
+Welcome to the Kigali Travel Website project! This website is a multi-page platform dedicated to showcasing some of the best tourist destinations, restaurants, and experiences in Kigali, Rwanda.
 
 ## 🌍 Overview
 
@@ -27,6 +27,8 @@ To view the website locally:
 1. Clone or download the repository to your local machine.
 2. Open the `index.html` file in your preferred web browser.
 3. Navigate through the website using the built-in links to explore different destinations.
+
+View my website online here:practise-sooty.vercel.app
 
 ## 🎨 Design Highlights
 
